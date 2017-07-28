@@ -68,3 +68,5 @@ The client understands that your team are not nodejs developers and has suggeste
 ## Example
 
 The client has also provided an example prototype video which can be viewed by following the below link `https://asciinema.org/a/123175` for inspiration.
+
+[![asciicast](https://asciinema.org/a/123175.png)](https://asciinema.org/a/123175)
