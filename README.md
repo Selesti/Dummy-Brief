@@ -32,7 +32,7 @@ Method | Endpoint
 GET    | https://dummy-api.selesti.agency/orders
 
 
-## Feature Two
+### Feature Two
 
 The client also needs a way to generate a .csv of a specific customer’s order.
 
@@ -56,16 +56,15 @@ The client has also kindly supplied a Postman collection for easy API debugging
 
 https://www.getpostman.com/collections/61722bfa245b4e26a85b
 
-
----------------------------------
+## Project Delivery
 
 As there are such high security restrictions on the server, the client requires the package to be zipped up and delivered over to his team for testing.
 
 They have left a note to make sure they exclude the `node_modules` from the zip as they have an enterprise mirror which they’ll use.
 
-The client understands that your team are not nodejs developers and has suggested if they have any questions about the project they can email `dummyapi@selesti.com` for any clarifications.
+The client understands that your team are not nodejs developers and has suggested if they have any questions about the project they can email `dummyapi@selesti.com` for any clarification.
 
 
-The client has also provided an example prototype video which can be viewed by following the below link https://asciinema.org/a/123175 for inspiration.
+## Example
 
-
+The client has also provided an example prototype video which can be viewed by following the below link `https://asciinema.org/a/123175` for inspiration.
