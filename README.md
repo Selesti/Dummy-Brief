@@ -4,7 +4,7 @@ We understand that being a good developer does not mean being able to recite how
 
 We understand that a good developer is somebody who is not afraid to not know the answer, but are able to use the resource available to them to find suitable solutions to the problems they are faced with, and the ability to adapt their knowledge to different circumstances.
 
-For this test we’ll be providing you with a small brief to potentially put you outside of your comfort zones to produce a simple few components which should solve a small problem, sometimes you're required to work with platforms you're unfamiliar with outside of your day to day roles, imagine this is one of those moments.
+For this test we’ll be providing you with a small brief to potentially put you outside of your comfort zones to produce a few simple components which should solve a small problem, sometimes you're required to work with platforms you're unfamiliar with outside of your day to day roles, imagine this is one of those moments.
 
 ## The Brief
 
