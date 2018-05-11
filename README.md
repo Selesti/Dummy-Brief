@@ -4,17 +4,17 @@ We understand that being a good developer does not mean being able to recite how
 
 We understand that a good developer is somebody who is not afraid to not know the answer, but are able to use the resource available to them to find suitable solutions to the problems they are faced with, and the ability to adapt their knowledge to different circumstances.
 
-For this test we’ll be providing you with a small brief to potentially put you outside of your comfort zones to produce a few simple components which should solve a small problem, sometimes you're required to work with platforms you're unfamiliar with outside of your day to day roles, imagine this is one of those moments.
+For this test we’ll be providing you with a small brief to potentially put you outside of your comfort zones to produce a few simple components which should solve a small problem, **sometimes you're required to work with platforms you're unfamiliar with outside of your day to day roles, imagine this is one of those moments.**
 
 ## The Brief
 
-You have a new client, who runs only runs NodeJS applications. (No Ruby, No Python, No PHP etc... for this example)
+You have a new client, who runs only runs NodeJS applications. (*No Ruby, No Python, No PHP etc... for this example*)
 
 Although you're not a Node developer, you understand how javascript works, understand basic design principles, how a REST API works and are self-sufficient. You believe you can cobble something together to suit the client's needs.
 
 The client needs a NodeJS CLI tool which accesses their EPOS API to generate some basic reports.
 
-The task should ideally take no longer than 1 hour 30 minutes, depending on your experience.
+The task should ideally take **no longer than 1 hour 30 minutes**, depending on your experience.
 
 ### Feature One
 
