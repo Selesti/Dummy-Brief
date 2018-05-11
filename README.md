@@ -2,9 +2,9 @@
 
 We understand that being a good developer does not mean being able to recite how specific functions like spaceship operators work, or the Liskov substitution principle in your sleep.
 
-We do understand that a good developer is somebody who is not afraid to not know the answer, but are able to use the resource available to them to find suitable solutions to the problems they are faced with, and the ability to adapt their knowledge to different circumstances.
+We understand that a good developer is somebody who is not afraid to not know the answer, but are able to use the resource available to them to find suitable solutions to the problems they are faced with, and the ability to adapt their knowledge to different circumstances.
 
-For this test we’ll be providing you with a small brief to potentially put you outside of your comfort zones to produce a simple few components which should solve a small problem, and that you’re able to justify why you did things in a certain way, what issues you faced and how you solved them.
+For this test we’ll be providing you with a small brief to potentially put you outside of your comfort zones to produce a simple few components which should solve a small problem, sometimes you're required to work with platforms you're unfamiliar with outside of your day to day roles, imagine this is one of those moments.
 
 ## The Brief
 
@@ -58,11 +58,11 @@ https://www.getpostman.com/collections/61722bfa245b4e26a85b
 
 ## Project Delivery
 
-As there are such high security restrictions on the server, the client requires the package to be zipped up and delivered over to his team for testing.
+As there are such high-security restrictions on the server, the client requires the package to be zipped up and delivered over to his team for testing.
 
 They have left a note to make sure they exclude the `node_modules` from the zip as they have an enterprise mirror which they’ll use.
 
-The client understands that your team are not nodejs developers and has suggested if they have any questions about the project they can email `dummyapi@selesti.com` for any clarification.
+The client understands that your team are not NodeJS developers and has suggested if they have any questions about the project they can email `dummyapi@selesti.com` for any clarification.
 
 
 ## Example
