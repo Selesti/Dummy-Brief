@@ -8,7 +8,7 @@ For this test we’ll be providing you with a small brief to potentially put you
 
 ## The Brief
 
-You have a new client, who runs only runs NodeJS applications. (*No Ruby, No Python, No PHP etc... for this example*)
+You have a new client, who runs only runs NodeJS applications. (*No Ruby, No Python, No PHP etc... for this dummy brief please*)
 
 Although you're not a Node developer, you understand how javascript works, understand basic design principles, how a REST API works and are self-sufficient. You believe you can cobble something together to suit the client's needs.
 
