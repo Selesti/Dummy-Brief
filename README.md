@@ -8,9 +8,9 @@ For this test we’ll be providing you with a small brief to potentially put you
 
 ## The Brief
 
-We’ve got a new client, who runs all their applications on a Node environment, and require all their products to be compatible.
+You have a new client, who runs only runs NodeJS applications.
 
-Your team doesn’t have any NodeJS developers, however you all understand how javascript works, understand basic design principles, how a REST API works and are self sufficient. You believe you can cobble something together to suit the client's needs.
+Although you're not a Node developer, you understand how javascript works, understand basic design principles, how a REST API works and are self-sufficient. You believe you can cobble something together to suit the client's needs.
 
 The client needs a NodeJS CLI tool which accesses their EPOS API to generate some basic reports.
 
