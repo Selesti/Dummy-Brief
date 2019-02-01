@@ -66,6 +66,15 @@ They have left a note to make sure they exclude the `node_modules` from the zip 
 
 The client understands that your team are not NodeJS developers and has suggested if they have any questions about the project they can email `dummyapi@selesti.com` for any clarification.
 
+```
+  ___   ___    _  _  ___ _____   ___ _   _ ___ _    ___ ___ _  _    ___  _  _ _    ___ _  _ ___ 
+ |   \ / _ \  | \| |/ _ \_   _| | _ \ | | | _ ) |  |_ _/ __| || |  / _ \| \| | |  |_ _| \| | __|
+ | |) | (_) | | .` | (_) || |   |  _/ |_| | _ \ |__ | |\__ \ __ | | (_) | .` | |__ | || .` | _| 
+ |___/ \___/  |_|\_|\___/ |_|   |_|  \___/|___/____|___|___/_||_|  \___/|_|\_|____|___|_|\_|___|                            
+```
+
+**Please do not publish your results online via any platform, including Github - failing to follow this instruction could lead to immediate dismissal of applicants.**
+
 
 ## Example
 
